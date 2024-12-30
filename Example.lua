@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ehehhdrhdhehehhehendducucuh/Skidd/refs/heads/main/obf_49lwzfWL895OLLJqoC9l8FX82IF55da1YCAu9d5tu3zg7L10t1bbS4jx5F76dH5F.lua.txt"))()skid:execute("Script1")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ehehhdrhdhehehhehendducucuh/Skidd/refs/heads/main/obf_ayS6wBF3fWjdmvHfi1IT441pIN4GGk6j3B1hucl997Q5s9ja8ye574t3Rp2Ag4F6.lua.txt"))()skid:execute("Script1")
